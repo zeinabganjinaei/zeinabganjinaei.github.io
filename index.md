@@ -7,7 +7,7 @@ body{
  direction:rtl;
 }
 </style>
-### زینب السادات گنجینایی
+### زینب السادات گنجیانی
 <a href="https://uupload.ir/view/1d9z_me.jpg" target="_blank"><img src="https://ume_thumb.jpg" border="0" alt="آپلود عکس" /></a>
 
 ### اطلاعات شخصی
@@ -15,7 +15,7 @@ body{
 ---
 <ol>
  <li> نام : زینب السادات</li>
- <li> نام خانوادگی : گنجینایی</li>
+ <li> نام خانوادگی : گنجیانی</li>
  <li> تاریخ تولد : ۱۳۵۶</li>
  <li> وضعیت تاهل : متاهل</li>
  <li> دانشجوی مهندسی کامپیوتر</li>
