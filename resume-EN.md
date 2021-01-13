@@ -2,7 +2,7 @@
 ---
 [FA](index.md)<a class="pt-trigger" href="index" data-animation="62"> <img src="img/Iran.png" width="20" height="20"/></a>
 
-### Zeinab sadat Ganjinaei
+### Zeinab sadat Ganjiani
 <a href="https://uupload.ir/view/1d9z_me.jpg" target="_blank"><img src=e_thumb.jpg" border="0" alt="آپلود عکس" /></a>
 
 ### Personal informations
@@ -10,7 +10,7 @@
 ---
 <ol>
   <li> Name: Zeinab sadt</li>
-  <li> Last name : Ganjinaei</li>
+  <li> Last name : Ganjiani</li>
   <li> Date of birth : 1978</li>
   <li> Martial status : married</li>
   <li> I am a Computer engineering student</li>
