@@ -8,7 +8,8 @@ body{
 }
 </style>
 ### زینب السادات گنجیانی
-<a href="https://uupload.ir/view/1d9z_me.jpg" target="_blank"><img src="https://ume_thumb.jpg" border="0" alt="آپلود عکس" /></a>
+
+<a href="https://uupload.ir/view/nitq_11111.jpeg" target="_blank"><img src="https://uupload.ir/files/nitq_11111_thumb.jpeg" border="0" alt="آپلود عکس" /></a>
 
 ### اطلاعات شخصی
 
